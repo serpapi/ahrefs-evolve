@@ -10,5 +10,5 @@ For marketers and SEO teams, this means you can collect search results, rankings
 - Register for free at [SerpApi.com](https://serpapi.com/)
 - Common [use cases](https://serpapi.com/use-cases)
 - Blog Post: [Rank Tracking in the Age of AI Overviews](https://serpapi.com/blog/rank-tracking-in-the-age-of-ai-overviews-whats-changed/)
-
+- [Pixel Position feature](https://serpapi.com/pixel-position)
 
